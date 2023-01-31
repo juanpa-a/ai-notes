@@ -1,2 +1,2 @@
 # Jupyterlab
-jupyterlab=3.5.3
+jupyterlab==3.5.3
